@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="TOPPINGS">TOPPINGS</string>
+    <string name="Name">Name</string>
+    <string name="WhippedCream">Whipped Cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Order">ORDER</string>
+    <string name="Quantity">QUANTITY</string>
+    <string name="warning_bottom">You can not have less than one coffees！</string>
+    <string name="warning_top">You can not have more than one hundred coffees!</string>
+</resources>

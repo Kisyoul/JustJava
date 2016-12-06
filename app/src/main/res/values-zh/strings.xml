@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">点咖啡</string>
+    <string name="TOPPINGS">配料</string>
+    <string name="Name">姓名</string>
+    <string name="WhippedCream">生奶油</string>
+    <string name="Chocolate">巧克力</string>
+    <string name="Order">订餐</string>
+    <string name="Quantity">数量</string>
+    <string name="warning_bottom">你不能点一杯以下的咖啡！</string>
+    <string name="warning_top">你不能点一百杯以上的咖啡！</string>
+</resources>
